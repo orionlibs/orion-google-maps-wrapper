@@ -1,4 +1,4 @@
-package io.github.orionlibs.project_name;
+package io.github.orionlibs.orion_google_maps_wrapper;
 
 import java.io.IOException;
 import java.util.TimeZone;
